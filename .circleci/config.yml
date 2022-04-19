@@ -75,7 +75,6 @@ jobs:
            name: Activating environment and pytest
            command: |
             . venv/bin/activate
-            pytest tests -p no:warnings
         
         
   
